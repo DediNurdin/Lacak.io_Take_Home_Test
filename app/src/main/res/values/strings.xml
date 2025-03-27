@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lacak.io Take Home Test</string>
+    <string name="speed_format"> km/h</string>
+    <string name="speed_label">Speed</string>
+    <string name="engine_label">Engine</string>
+    <string name="door_label">Door</string>
+    <string name="zero_label">0</string>
+    <string name="off_label">OFF</string>
+    <string name="closed_label">CLOSED</string>
+</resources>
